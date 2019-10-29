@@ -2,7 +2,7 @@
 
   *"Never Look Back"*
 
-![Portfolio](portfolio.png)
+![Portfolio](/Users/gstieg/Desktop/portfolio.png)
 
 
 
