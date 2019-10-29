@@ -2,7 +2,7 @@
 
   *"Never Look Back"*
 
-![Portfolio](/Users/gstieg/Desktop/portfolio.png)
+![Portfolio](/Users/gstieg/Desktop/Screen\ Shot\ 2019-10-28\ at\ 6.47.37\ PM.png)
 
 
 
