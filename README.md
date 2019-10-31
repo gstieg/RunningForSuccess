@@ -12,16 +12,16 @@ Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSucce
 
 Coin (currency) - used this feature to relate to the real worlds currency (USD)
 
-![]()
+![Coin](image 2.png)
 
 
 Spikes (enemy) - Added this to signify obastacles you have to overcome in the real world
 
-![]()
+![Spike](Spike_Down.png)
 
 Water (enemy) - Added this to signify obastacles you have to overcome in the real world
 
-![]()
+![Water](image 1.png)
 
 
 
