@@ -4,10 +4,6 @@
 
 ![Portfolio](unity.png)
 
-
-Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSuccess]
-
-
 # **About**
 
         RunningForSuccess was made for a Portfolio Project at Holberton School [https://www.holbertonschool.com/]. This project was made in Unity
@@ -17,21 +13,11 @@ Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSucce
         will have to start the game at the beginning. In each level, there are coins you can collect aka "money" to relate
         to the real world.
 
-# **Features**
+# **How it Works*8
 
-Coin (currency) - used this feature to relate to the real worlds currency (USD)
-
-![Coin](image2.png)
-
-
-Spikes (enemy) - Added this to signify obastacles you have to overcome in the real world
-
-![Spike](Spike_Down.png)
-
-Water (enemy) - Added this to signify obastacles you have to overcome in the real world
-
-![Water](image1.png)
-
+  1. Clone the Github Repository
+  2. Have a thrid party extenstion for Github and Unity to be able to upload it into Unity
+  3. Have Fun!
 
 **Authors**
 
