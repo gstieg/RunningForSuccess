@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3CCE86C0-1F94-8CD5-B549-290DBE335D46}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Coincollect.cs">
+    <Files>
+      <File FileName="Assets/NewPlayer.cs" Line="66" Column="70" />
+      <File FileName="Assets/Coincollect.cs" Line="1" Column="1" />
+      <File FileName="Assets/MoveScene.cs" />
+      <File FileName="Assets/Player.cs" />
+      <File FileName="Assets/LevelExit.cs" />
+      <File FileName="Assets/LevelChange.cs" />
+      <File FileName="Assets/DieSpike.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Portfolio" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7c4d510-76cf-4527-907f-c501f36f392f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
