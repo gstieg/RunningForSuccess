@@ -2,7 +2,7 @@
 
   *"Never Look Back"*
 
-![Portfolio}(unity.jpeg)
+![Portfolio](unity.jpeg)
 
 
 Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSuccess]
@@ -35,6 +35,9 @@ Water (enemy) - Added this to signify obastacles you have to overcome in the rea
 	to the real world.
 
 	Link to my Github [https://github.com/gstieg]
+
 	Link to my Twitter [https://twitter.com/gstieg0809]
+
 	Link To My LinkedIn [https://www.linkedin.com/in/grayson-stiegler-43714017a/]
+
 	Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSuccess]
