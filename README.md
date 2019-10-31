@@ -34,10 +34,7 @@ Water (enemy) - Added this to signify obastacles you have to overcome in the rea
 	will have to start the game at the beginning. In each level, there are coins you can collect aka "money" to relate
 	to the real world.
 
-	Link to my Github [https://github.com/gstieg]
 
-	Link to my Twitter [https://twitter.com/gstieg0809]
+**Authors**
 
-	Link To My LinkedIn [https://www.linkedin.com/in/grayson-stiegler-43714017a/]
-
-	Link to Github For RunningForSuccess: [https://github.com/gstieg/RunningForSuccess]
+Grayson Stiegler, [https://github.com/gstieg] | (https://twitter.com/gstieg0809) | (https://www.linkedin.com/in/grayson-stiegler-43714017a/) | (https://github.com/gstieg/RunningForSuccess)
