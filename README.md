@@ -13,7 +13,7 @@
         will have to start the game at the beginning. In each level, there are coins you can collect aka "money" to relate
         to the real world.
 
-# **How it Works*8
+# **How it Works**
 
   1. Clone the Github Repository
   2. Have a thrid party extenstion for Github and Unity to be able to upload it into Unity
