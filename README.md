@@ -13,6 +13,9 @@
         will have to start the game at the beginning. In each level, there are coins you can collect aka "money" to relate
         to the real world.
 
+
+	Link to Medium Aritcle about this project [https://medium.com/@682/things-i-learned-from-creating-my-first-unity-2d-platformer-fa19e912806]
+
 # **How it Works**
 
   1. Clone the Github Repository
